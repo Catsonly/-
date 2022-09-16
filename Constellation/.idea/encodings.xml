@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8" addBOMForNewFiles="with BOM">
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/hba/constellation/activity/WelcomeActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/hba/constellation/bean/LuckBean.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/hba/constellation/bean/StarAnalysisBean.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/hba/constellation/home/GuideActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/hba/constellation/home/GuideBaseAdapter.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/hba/constellation/luckfrag/LuckAnalysisActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/hba/constellation/luckfrag/LuckAnalysisAdapter.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/hba/constellation/luckfrag/LuckBaseAdapter.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/hba/constellation/luckfrag/LuckItemBean.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/hba/constellation/luckfrag/ViewHodler.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/hba/constellation/parnterfrag/ParnterAnalysisActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/hba/constellation/starfrag/AnalysisBaseAdapter.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/hba/constellation/starfrag/StarAnalysisActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/hba/constellation/starfrag/StarBaseAdapter.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/hba/constellation/starfrag/StarPageAdapter.java" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

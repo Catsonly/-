@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu_star"
+        android:icon="@drawable/main_rb_star"
+        android:title="星座"/>
+
+    <item
+        android:id="@+id/menu_luck"
+        android:icon="@drawable/main_rb_luck"
+        android:title="运势"/>
+    <item
+        android:id="@+id/menu_me"
+        android:icon="@drawable/main_rb_me"
+        android:title="我的"/>
+</menu>
